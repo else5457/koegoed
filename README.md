@@ -1,5 +1,5 @@
 koegoed 
 =======
 
-koegoed is een programmaatje dat koeienboeren moet helpen om de juiste handelingen te verrichten 
-op basis van de weersvoorspelling
+koegoed is een app die koeienboeren moet helpen om de juiste beslissingen te kunnen nemen 
+op basis van de weersvoorspelling en andere voorspellingen
